@@ -51,7 +51,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/dilia-w/dilia-w/output/snake.svg" alt="Snake animation" />
-
-###
